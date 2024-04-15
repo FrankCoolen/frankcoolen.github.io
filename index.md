@@ -16,9 +16,9 @@ Nonparametric Predictive Inference: [NPI webpage](http://www.npi-statistics.com)
 
 Survival Signatures for System Reliability: [Survival Signatures webpage](survsign.html)
 
-My colleagues David Wooff, Michael Goldstein and I wrote a chapter for the book \`Analytic Methods in Systems and Software Testing' (Wiley, 2018, edited by Kenett, Ruggeri and Faltin). The chapter (pp. 213-243) is entitled \`Bayesian Graphical Models for High Complexity Testing: Aspects of Implementation' and is available [here](bgm-Wooff-Goldstein-Coolen-final-170323.pdf).
+My colleagues David Wooff, Michael Goldstein and I wrote a chapter for the book \`Analytic Methods in Systems and Software Testing' (Wiley, 2018, edited by Kenett, Ruggeri and Faltin). The chapter (pp. 213-243) is entitled \`Bayesian Graphical Models for High Complexity Testing: Aspects of Implementation' and is available [here](pdfs/bgm-Wooff-Goldstein-Coolen-final-170323.pdf).
 
-Mathematical Genealogy: [Ancestors](Maths-Genealogy.png) and [Descendants](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=51518)
+Mathematical Genealogy: [Ancestors](pdfs/Maths-Genealogy.png) and [Descendants](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=51518)
 
 EU training network: [UTOPIAE](http://www.maths.dur.ac.uk/stats/utopiae/)
 
@@ -76,35 +76,35 @@ I am supervising the following PhD students at Durham.
 These students have successfully completed their PhD studies at Durham under my supervision.
 
 *   Asamh Al-Luhayb (2021) Smoothed bootstrap methods for right-censored data and bivariate data.
-*   Junbin Chen (2019) [Contributions to nonparametric predictive inference for Bernoulli data with applications in finance](Junbin-Chen-Thesis19-compressed.pdf) (jointly supervised by Tahani Coolen-Maturi)
-*   Aesha Najem (2019) [System reliability when components can be swapped upon failure](Thesis-Najem.pdf)
-*   Ting He (2019) [Nonparametric predictive inference for option pricing based on the binomial tree model](Ting-He-thesis.pdf) (jointly supervised by Tahani Coolen-Maturi)
-*   Abdullah Ahmadini (2019) [Imprecise statistical methods for accelerated life testing](Ahmadini-Thesis.pdf)
-*   Manal Alabdulhadi (2018) [Nonparametric predictive inference for diagnostic test thresholds](thesis-MA.pdf) (jointly supervised by Tahani Coolen-Maturi)
-*   Najla Qarmalah (2018) [Finite mixture models: visualisation, localised regression, and prediction](thesis-NQ.pdf) (jointly supervised by Jochen Einbeck)
-*   Hana Alqifari (2017) [Nonparametric predictive inference for future order statistics](thesis-HNA.pdf)
-*   Noryanti Muhammad (2016) [Predictive inference with copulas for bivariate data](thesis-NM.pdf) (jointly supervised by Tahani Coolen-Maturi)
-*   Abdullah Al-Nefaiee (2014) [Nonparametric predictive inference for system failure time](thesis-AAN.pdf)
-*   Sulafah BinHimd (2014) [Nonparametric predictive methods for bootstrap and test reproducibility](thesis-SBH.pdf)
-*   Ahmad Aboalkhair (2012) [Nonparametric predictive inference for system reliability](thesis-AA.pdf) (jointly supervised by Iain MacPhee)
-*   Faiza Elkhafifi (2012) [Nonparametric predictive inference for ordinal data and accuracy of diagnostic tests](thesis-FE.pdf)
-*   Mohamed Elsaeiti (2011) [Nonparametric predictive inference for acceptance decisions](thesis-ME.pdf)
-*   Tahani Maturi (2010) [Nonparametric predictive inference for multiple comparisons](thesis-TM.pdf) (main supervisor Pauline Coolen-Schrijner)
-*   Rebecca Baker (2010) [Multinomial nonparametric predictive inference: selection, classification and subcategory data](thesis-RB.pdf) (jointly supervised by Pauline Coolen-Schrijner)
-*   Richard Crossman (2009) [Limiting conditional distributions: imprecision and relation to the hazard rate](thesis-RC.pdf) (main supervisor Pauline Coolen-Schrijner)
-*   Vicki Montgomery (2009) [New statistical methods in risk assessment by probability bounds](thesis-VM.pdf)
-*   Brett Houlding (2008) [Sequential decision making with adaptive utility](thesis-BH.pdf)
-*   Maha Rahrouh (2005) [Bayesian zero-failure reliability demonstration](thesis-MR.pdf) (jointly supervised by Pauline Coolen-Schrijner)
-*   Ke-Jian Yan (2002) [Nonparametric predictive inference with right-censored data](thesis-KJY.pdf)
+*   Junbin Chen (2019) [Contributions to nonparametric predictive inference for Bernoulli data with applications in finance](pdfs/Junbin-Chen-Thesis19-compressed.pdf) (jointly supervised by Tahani Coolen-Maturi)
+*   Aesha Najem (2019) [System reliability when components can be swapped upon failure](pdfs/Thesis-Najem.pdf)
+*   Ting He (2019) [Nonparametric predictive inference for option pricing based on the binomial tree model](pdfs/Ting-He-thesis.pdf) (jointly supervised by Tahani Coolen-Maturi)
+*   Abdullah Ahmadini (2019) [Imprecise statistical methods for accelerated life testing](pdfs/Ahmadini-Thesis.pdf)
+*   Manal Alabdulhadi (2018) [Nonparametric predictive inference for diagnostic test thresholds](pdfs/thesis-MA.pdf) (jointly supervised by Tahani Coolen-Maturi)
+*   Najla Qarmalah (2018) [Finite mixture models: visualisation, localised regression, and prediction](pdfs/thesis-NQ.pdf) (jointly supervised by Jochen Einbeck)
+*   Hana Alqifari (2017) [Nonparametric predictive inference for future order statistics](pdfs/thesis-HNA.pdf)
+*   Noryanti Muhammad (2016) [Predictive inference with copulas for bivariate data](pdfs/thesis-NM.pdf) (jointly supervised by Tahani Coolen-Maturi)
+*   Abdullah Al-Nefaiee (2014) [Nonparametric predictive inference for system failure time](pdfs/thesis-AAN.pdf)
+*   Sulafah BinHimd (2014) [Nonparametric predictive methods for bootstrap and test reproducibility](pdfs/thesis-SBH.pdf)
+*   Ahmad Aboalkhair (2012) [Nonparametric predictive inference for system reliability](pdfs/thesis-AA.pdf) (jointly supervised by Iain MacPhee)
+*   Faiza Elkhafifi (2012) [Nonparametric predictive inference for ordinal data and accuracy of diagnostic tests](pdfs/thesis-FE.pdf)
+*   Mohamed Elsaeiti (2011) [Nonparametric predictive inference for acceptance decisions](pdfs/thesis-ME.pdf)
+*   Tahani Maturi (2010) [Nonparametric predictive inference for multiple comparisons](pdfs/thesis-TM.pdf) (main supervisor Pauline Coolen-Schrijner)
+*   Rebecca Baker (2010) [Multinomial nonparametric predictive inference: selection, classification and subcategory data](pdfs/thesis-RB.pdf) (jointly supervised by Pauline Coolen-Schrijner)
+*   Richard Crossman (2009) [Limiting conditional distributions: imprecision and relation to the hazard rate](pdfs/thesis-RC.pdf) (main supervisor Pauline Coolen-Schrijner)
+*   Vicki Montgomery (2009) [New statistical methods in risk assessment by probability bounds](pdfs/thesis-VM.pdf)
+*   Brett Houlding (2008) [Sequential decision making with adaptive utility](pdfs/thesis-BH.pdf)
+*   Maha Rahrouh (2005) [Bayesian zero-failure reliability demonstration](pdfs/thesis-MR.pdf) (jointly supervised by Pauline Coolen-Schrijner)
+*   Ke-Jian Yan (2002) [Nonparametric predictive inference with right-censored data](pdfs/thesis-KJY.pdf)
 
 #### External Students
 
 I collaborate(d) with these students in part of their PhD (or MSc) research.
 
-*   Jacko Verheijen (1996) [Combining two classical approaches for statistical selection](Verheijen-1996.pdf) (MSc at Eindhoven University of Technology (The Netherlands); Supervisor: Paul van der Laan; visiting student at Durham for 6 months)
-*   Fabio Spinato (2008) [The reliability of wind turbines](Thesis-Spinato.pdf) (PhD at Durham, Engineering Department, Supervisor: Peter Tavner)
-*   Gero Walter (2013) [Generalized Bayesian inference under prior-data conflict](Thesis-Gero.pdf) (PhD at Munich University (Germany); Supervisor: Thomas Augustin)
-*   Geng Feng (2017) [Efficient reliability and sensitivity analysis of complex systems and networks with imprecise probability](Thesis-Feng.pdf) (PhD at Liverpool University; supervised by Michael Beer and Edoardo Patelli)
+*   Jacko Verheijen (1996) [Combining two classical approaches for statistical selection](pdfs/Verheijen-1996.pdf) (MSc at Eindhoven University of Technology (The Netherlands); Supervisor: Paul van der Laan; visiting student at Durham for 6 months)
+*   Fabio Spinato (2008) [The reliability of wind turbines](pdfs/Thesis-Spinato.pdf) (PhD at Durham, Engineering Department, Supervisor: Peter Tavner)
+*   Gero Walter (2013) [Generalized Bayesian inference under prior-data conflict](pdfs/Thesis-Gero.pdf) (PhD at Munich University (Germany); Supervisor: Thomas Augustin)
+*   Geng Feng (2017) [Efficient reliability and sensitivity analysis of complex systems and networks with imprecise probability](pdfs/Thesis-Feng.pdf) (PhD at Liverpool University; supervised by Michael Beer and Edoardo Patelli)
 *   Yi-Chao Yin: working on accelerated life testing (University of Electronic Science and Technology of China, Chengdu (China); supervised by Hong-Zhong Huang; visiting student at Durham Oct 15 - Oct 16)
 *   Tien Thanh Thach: workinig on mixtures of failure rate models (PhD at Technical University of Ostrava (Czechia); supervised by Radim Bris)
 *   Yao Li: working on prediction of remaining life of systems (PhD at Chongqing University, China; visiting student at Durham Sept 17 - March 19)
@@ -122,9 +122,9 @@ I am married to [Tahani Coolen-Maturi](http://www.tahanimaturi.com/), who is a c
 
 My beloved wife Pauline died in 2008 - remember Pauline, she is with me.
 
-Webpage: [Pauline Coolen-Schrijner](../ps/ps.html) ([picture 2004](lakes04.jpg)) ([picture 1994](Finchale94.tif))
+Webpage: [Pauline Coolen-Schrijner](../ps/ps.html) ([picture 2004](pdfs/lakes04.jpg)) ([picture 1994](pdfs/Finchale94.tif))
 
-[Tribute to Pauline](Tribute-Pauline-JRR.pdf) in Journal of Risk and Reliability
+[Tribute to Pauline](pdfs/Tribute-Pauline-JRR.pdf) in Journal of Risk and Reliability
 
 * * *
 
