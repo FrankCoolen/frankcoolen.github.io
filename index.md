@@ -1,4 +1,3 @@
-Frank Coolen
 
 Frank Coolen
 ============
