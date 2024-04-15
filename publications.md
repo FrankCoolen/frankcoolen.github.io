@@ -195,7 +195,7 @@ FRANK COOLEN: PUBLICATIONS
 192.  A.M. Aboalkhair, FC, I.M. MacPhee (2014). Nonparametric predictive inference for reliability of a k-out-of-m:G system with multiple component types. Reliability Engineering and System Safety 131, 298-304.
 193.  FC, T. Coolen-Maturi, A.H. Al-nefaiee (2014). Nonparametric predictive inference for system reliability using the survival signature. Journal of Risk and Reliability 228, 437-448.
 194.  M.C.M. Troffaes, FC, S. Destercke (2014). A note on learning dependence under severe uncertainty. In: Information Processing and Management of Uncertainty in Knowledge-Based Systems, A. Laurent, O. Strauss, B. Bouchon-Meunier, R.R. Yager (Eds). Springer, pp 498-507.
-195.  FC, T. Coolen-Maturi (2015). Modelling uncertain aspects of system dependability with survival signatures. In: Dependability Problems of Complex Information Systems, W. Zamojski, J. Sugier (Eds). Springer, Berlin, pp. 19-34 ([preprint version](Springer15-preprint.pdf)).
+195.  FC, T. Coolen-Maturi (2015). Modelling uncertain aspects of system dependability with survival signatures. In: Dependability Problems of Complex Information Systems, W. Zamojski, J. Sugier (Eds). Springer, Berlin, pp. 19-34 ([preprint version](pdfs/Springer15-preprint.pdf)).
 196.  FC, T. Coolen-Maturi (2015). Predictive inference for system reliability after common-cause component failures. Reliability Engineering and System Safety 135, 27-33.
 197.  B.X. Wang, K. Yu, FC (2015). Interval estimation for proportional reversed hazard family based on lower record values. Statistics & Probability Letters 98, 115-122.
 198.  L.V. Utkin, FC, S.V. Gurov (2015). Imprecise inference for warranty contract analysis. Reliability Engineering and System Safety 138, 31-39.
